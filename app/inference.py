@@ -3,7 +3,7 @@ import librosa
 from transformers import WhisperProcessor, WhisperForConditionalGeneration
 
 
-MODEL_ID = "azharm1224/juku-version-3"
+MODEL_ID = "azharm1224/juku-version-2"
 
 
 print(f"[INFO] Loading model from: {MODEL_ID}")
